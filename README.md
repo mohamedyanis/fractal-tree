@@ -30,7 +30,7 @@ Begin          | Playing
 
 ## How To Use It
 1. Download Processing3 from this link: https://processing.org/download/
-2. Install this repository, click <a href="https://github.com/mohamedyanis/3D-Slicing/archive/master.zip"> here </a> to install it.
+2. Install this repository, click <a href="https://github.com/mohamedyanis/3D-Slicingfractal-tree/archive/master.zip"> here </a> to install it.
 3. Extract the folder.
 4. Open the ```shoot_game.pde``` file.
 5. Run it :)
