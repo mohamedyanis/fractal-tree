@@ -1,12 +1,12 @@
 # Fractal Tree
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+
 #100daysofcode This simple programme written with processing3.<br><br>
 **From Wikipedia:**<br>
 The word "fractal" often has different connotations for the lay public as opposed to mathematicians, where the public is more likely to be familiar with fractal art than the mathematical concept.<br>
 In mathematics, a fractal is a self-similar subset of Euclidean space whose fractal dimension strictly exceeds its topological dimension.<br>
 In computer science, a fractal tree index is a tree data structure that keeps data sorted and allows searches and sequential access in the same time as a B-tree but with insertions and deletions that are asymptotically faster than a B-tree. Like a B-tree, a fractal tree index is a generalization of a binary search tree in that a node can have more than two children. Furthermore, unlike a B-tree, a fractal tree index has buffers at each node, which allow insertions, deletions and other changes to be stored in intermediate locations.
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
