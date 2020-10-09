@@ -23,7 +23,7 @@ Please :star: this repo to help us improve the quality.
 ## Screenshots
 Begin          | Playing
 :---------------------:|:------------------:
-![screenshoot](screenshots/ft1.png) | ![screenshoot](screenshots/ft1.png) <br>
+![screenshoot](screenshots/ft1.png) | ![screenshoot](screenshots/ft2.png) <br>
 
 ## Requirements
 * processing3
